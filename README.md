@@ -69,8 +69,7 @@ Baud rate: **115200**
 ```bash
 pip install -r requirements.txt
 
-## Run Logger(Terminal 1)
-python python/log_serial.py
 
-## Run Live Plot(Terminal 2)
-python python/live_plot.py
+
+
+
