@@ -65,11 +65,17 @@ Baud rate: **115200**
 
 ## Host Setup (Python)
 
-### Install dependencies
+### Install dependencies and run terminals
 ```bash
 pip install -r requirements.txt
+```
 
+## Run Logger(Terminal 1)-Sample
+```bash
+python python/log_serial.py
+```
 
-
-
-
+## Run Live Plotter(Terminal 2)-Sample
+```bash
+python python/live_plot.py
+```
