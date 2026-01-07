@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Arduino / serial output
+*.log
+*.csv
+
+# VS Code (if you use it)
+.vscode/
+
