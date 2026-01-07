@@ -79,3 +79,10 @@ python python/log_serial.py
 ```bash
 python python/live_plot.py
 ```
+## Sample Output
+```bash
+timestamp_ms,light_lux,temp_c,humidity_pct
+12557,21.60,35.00,45.10
+14563,21.60,35.10,45.20
+16569,21.70,35.10,45.20
+```
